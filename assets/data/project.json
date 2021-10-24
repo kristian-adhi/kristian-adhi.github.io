@@ -1,0 +1,233 @@
+[
+    {
+      "id": 1,
+      "name": "PSP - Company Profile <br> (Front-end & Back-end)",
+      "description": "It was my first web project at PT Media Sarana Data. It's a company profile of CV. Putmasari Pratama. The first phase in front-end development was to convert design layout (UI) from Graphic Designer. In admin panel there's custom CMS (Content Management System) powered by CodeIgniter.",
+      "url": "https://putmasaripratama.co.id/profile_v1/",
+      "image_cover": "https://cutt.ly/bQCFuch",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/0QCEIx4"
+        },
+        {
+          "img_url": "https://cutt.ly/1QCEYr5"
+        },
+        {
+          "img_url": "https://cutt.ly/OQCEmns"
+        },
+        {
+          "img_url": "https://cutt.ly/0QCExQ5"
+        },
+        {
+          "img_url": "https://cutt.ly/wQCEkJz"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Gmedia Customer Service",
+      "description": "Admin panel for Customer Service (CS) of Gmedia to assist the customer relationship. The main features of this CS application are: <br> <ul> <li>Call management (Care call, Courtesy call, Birthday call)</li> <li>Survey report (Daily survey, CS activity, Survey chart)</li> </ul>",
+      "url": "",
+      "image_cover": "https://cutt.ly/3QC6APz",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/rQN3W36"
+        },
+        {
+          "img_url": "https://cutt.ly/XQN3KOb"
+        },
+        {
+          "img_url": "https://cutt.ly/mQN3V7J"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MediaKitaKita Back-end",
+      "description": "MediaKitaKita is a collaboration program between Gmedia Semarang and Sonora FM Semarang. The main content is podcast and video. Admin could manage website content and could reply email directly from admin backend to visitors who sent it. <br> <br> I also did data fetching from back-end to front-end pages & vice versa.",
+      "url": "",
+      "image_cover": "https://cutt.ly/TQVqbcv",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/pQN5JBz"
+        },
+        {
+          "img_url": "https://cutt.ly/IQN5VEn"
+        },
+        {
+          "img_url": "https://cutt.ly/KQN59bA"
+        },
+        {
+          "img_url": "https://cutt.ly/jQN6qNq"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "National E-Sport <br> War From Home 2020",
+      "description": "Landing page which was used for registration & information of E-Sport tournament (Piala Gubernur Jawa Tengah 2020). It's also equipped with web admin to check and approve registration.",
+      "url": "https://gmedia.net.id/esport/",
+      "image_cover": "https://cutt.ly/PQC7Z5W",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/CQMeqrK"
+        },
+        {
+          "img_url": "https://cutt.ly/1RlsZu1"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Interflow Back-end",
+      "description": "Interflow Property is a property broker company. The property consultants have a role as intermediary between seller and buyer of property. Every consultant of Interflow could promote his / her property listing on website, through admin panel which has been provided. While admin could manage website content, property listing, etc.",
+      "url": "https://interflow.co.id/Login",
+      "image_cover": "https://cutt.ly/vQC53HM",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/PQMamnc"
+        },
+        {
+          "img_url": "https://cutt.ly/NQMaTMz"
+        },
+        {
+          "img_url": "https://cutt.ly/LQMaPBM"
+        }
+      ]      
+    },
+    {
+      "id": 6,
+      "name": "ARJUNA Mobile - API",
+      "description": "Attendance system of CV. Putmasari Pratama (PSP). I have collaborated with Android Dev to provide API for the mobile app. Employees of PSP could check their own fingerprint scan log, attendance summary, remaining days off, etc. Submission of leave could be done easily through this app.",
+      "url": "",
+      "image_cover": "https://cutt.ly/SQC10qI",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/PQCMZvx"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lampuku Kartika - API",
+      "description": "Lampuku is a reseller application of CV. Kartika Jaya Abadi. I have collaborated with Android Dev to provide API for the mobile app. Kartika's customers could order electrical stuff directly from online shop in the app. Lampuku app is also integrated with DOKU Payment Gateway, so customers could easily pay debt to the company.",
+      "url": "",
+      "image_cover": "https://cutt.ly/XQV9CJh",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/TQ9xnZs"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "ROCK Station <br> (Web Admin & API)",
+      "description": "ROCK Station is an application to help church congregation of GBI ROCK Banjarmasin, to confirm their attendance & join offline worship in the church. It is useful for them who go to the church, especially during pandemic era. My role in this project is the developer of web admin & API.",
+      "url": "http://gmedia.bz/gereja/",
+      "image_cover": "https://cutt.ly/iQV21MO",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/nQ9QB1t"
+        },  
+        {
+          "img_url": "https://cutt.ly/0Q9Q2Sr"
+        },
+        {
+          "img_url": "https://cutt.ly/oQ9Q80n"
+        },
+        {
+          "img_url": "https://cutt.ly/XQ9WtIX"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kata Kopi Semarang <br> (Front-end & Back-end)",
+      "description": "Digital menu in the form of landing page which is used in Kata Kopi Semarang. When visiting the cafe, customers are able to choose menu directly from their own gadget / laptop. So it's helpful in this pandemic era, because physical contact towards cafe's physical menu can be minimized to prevent virus transmission. <br> <br> The first phase in front-end development was to convert design layout (UI) from Graphic Designer. In web admin there's custom CMS (Content Management System) powered by CodeIgniter.",
+      "url": "http://gmedia.bz/katakopi/",
+      "image_cover":"https://cutt.ly/8QV1MoE",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/gQZ30DA"
+        },  
+        {
+          "img_url": "https://cutt.ly/9QZ8s9g"
+        },
+        {
+          "img_url": "https://cutt.ly/bQ3Qrru"
+        },
+        {
+          "img_url": "https://cutt.ly/CQ9zzgZ"
+        },
+        {
+          "img_url": "https://cutt.ly/7Q9zTm8"
+        },
+        {
+          "img_url": "https://cutt.ly/KQ9zFvk"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Dashboard for Gmedia BoD",
+      "description": "Exclusive dashboard for BoD (Board of Directors) of Gmedia. This dashboard consists of performance statistics from three departments: Sales, CRO (Customer Relationship Officer), and Finance. The BoD could monitor employee's performance as an evaluation, and have relevant information for business decision-making.",
+      "url": "",
+      "image_cover":"https://cutt.ly/JQV73I5",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/zWiuc2d"
+        },  
+        {
+          "img_url": "https://cutt.ly/NWiuoLc"
+        },
+        {
+          "img_url": "https://cutt.ly/wWiyJOl"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Backlog",
+      "description": "Internal project management for our software development team. Sprint backlog is mainly used for the task management. There are sprint summary and monthly achievement report in order to evaluate employee's performance.",
+      "url": "",
+      "image_cover":"https://cutt.ly/RQV8Oaq",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/QQ9SP4H"
+        },  
+        {
+          "img_url": "https://cutt.ly/WQ9SF2X"
+        },  
+        {
+          "img_url": "https://cutt.ly/sQ9SVJ0"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Network Monitoring System <br> (NMS XPRO)",
+      "description": "NMS is an admin panel for Network Operation Center (NOC) to monitor and manage the network and data center. The main features of this NMS application are: <br> <ul> <li>Trouble management (Interference of intercity and innercity network)</li> <li>Network documentation (IP, VLAN, switch)</li> <li>OLT diagnostic & statistics</li> </ul> <br> NMS is also integrated with SmartOLT API. This API provide statistics (signal & status) of the Optical Line Termination (OLT).",
+      "url": "http://gmedia.bz/nms/",
+      "image_cover":"https://cutt.ly/gQV5PlR",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/CQ9GuI8"
+        },
+        {
+          "img_url": "https://cutt.ly/lQ9GgBI"
+        },
+        {
+          "img_url": "https://cutt.ly/9Q9GQLs"
+        },
+        {
+          "img_url": "https://cutt.ly/TQ9GT3s"
+        },
+        {
+          "img_url": "https://cutt.ly/aQ9GOBK"
+        },
+        {
+          "img_url": "https://cutt.ly/jQ9GGBU"
+        }
+      ]
+    }
+]

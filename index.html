@@ -1,11 +1,245 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title> Portofolio | Kristian Adhi K. </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Required meta tags -->
+
+    <meta name="description" content="Kristian Adhi Kurniawan | Web Developer">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Kristian Adhi Kurniawan | Web Developer</title>
+    <!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> -->
+    <!-- <link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/bvct6szbjq1lhkmq97l688bk8"> -->
+    <link href="assets/library/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/css/components.css" rel="stylesheet">
+    <!-- <link href="assets/css/components.min.css" rel="stylesheet"> -->
+    <link href="assets/library/owl-carousel/css/owl.min.css" rel="stylesheet">
+    <link href="assets/library/owl-carousel/css/owl-theme-default.css" rel="stylesheet">
+    <link href="assets/library/font-awesome/css/all.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 </head>
+
 <body>
-	<h3> In Progress </h3>
+    <nav id="navbar" class="navbar fixed-top navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand ml-2" href="">
+                <div class="sticky-logo">
+                    <b> Kristian Adhi Kurniawan </b>
+                </div>
+            </a>
+            <div class="form-inline ml-auto form-menu-icon"></div>
+        </div>
+    </nav>
+
+    <div class="container section" id="about" style="margin-top: 50px;;">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="tab-content">
+                </div> 
+            </div>
+        </div>
+    </div>
+
+    <div class="container section" id="project-menu">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="nav nav-tabs" id="portofolio-tabs" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active " href="javascript:;" data-target="#tab_portofolio"
+                            data-toggle="tab" role="tab">Portofolio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link " href="javascript:;" data-target="#tab_about_me"
+                            data-toggle="tab" role="tab">About Me</a>
+                    </li>
+                </ul>
+                <div class="tab-content">
+                    <div class="tab-pane fade show active" id="tab_portofolio" role="tabpanel">
+                        <div class="font-weight-bold text-center" style="font-size: 120%;">
+                            List of web projects which I've been involved since the beginning of every project.
+                        </div>
+                        <div class="row">
+                            <div id="portofolio"></div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade show" id="tab_about_me" role="tabpanel">
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-6 col-md-6">
+                                <div class="text-justify" style="font-size: 115%; margin: 2rem;">
+                                    Hello, my name is Kristian Adhi Kurniawan from Central Java, Indonesia. I'm a web developer with 4 years of work experience.
+                                    I usually work in front-end and back-end using PHP CodeIgniter. 
+                                    Every month and year passes with more varied and challenging projects, it has shaped me to be adaptive and detail-oriented person.
+                                    For example, I often spare extra time to make sure the detail of process or UI is already correct, and it has least bug.
+                                    If you want to know more information about me, feel free to contact me through my LinkedIn profile.
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-6 col-md-6">
+                                <div class="card">
+                                    <div id="linkedin" style="margin: 2rem;"></div>
+                                        <!-- <link rel="stylesheet" href="https://static-exp1.licdn.com/sc/h/bvct6szbjq1lhkmq97l688bk8"> -->                       
+                                      </div>
+                                </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modal_project" class="modal fade" tabindex="-1" data-backdrop="static" data-keyboard="false">
+        <form id="form_slider">
+            <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Project Detail of <div id="header-project-name"></div>
+                        </h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true"
+                            id="btn-close-form"><img src="https://www.seekpng.com/png/detail/52-522437_x-cross-close-symbol-icon-button-gui-close.png" alt="X, Cross, Close, Symbol, Icon, Button, Gui - Close Icon Grey@seekpng.com"></button>
+                        <input type="hidden" name="id" id="id">
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div id="bannerCarousole" class="carousel slide mb-5" data-ride="carousel"
+                                        data-interval="3000">
+                                        <div class="carousel-inner"></div>
+                                        <ol class="carousel-indicators"></ol>
+                                        <a class="carousel-control-prev none-580" data-target="#bannerCarousole"
+                                            role="button" data-slide="prev">
+                                            <span class="slider-mover-left" aria-hidden="true">
+                                                <i class="fa fa-angle-left"></i>
+                                            </span>
+                                        </a>
+                                        <a class="carousel-control-next none-580" data-target="#bannerCarousole"
+                                            role="button" data-slide="next">
+                                            <span class="slider-mover-right" aria-hidden="true">
+                                                <i class="fa fa-angle-right"></i>
+                                            </span>
+                                        </a>
+                                    </div>
+                                </div>
+                                    <div class="col-md-2 font-weight-bold mb-3">
+                                        Project Name
+                                    </div>
+                                    <div class="col-md-10 mb-3">
+                                        <div id="project-name"></div>
+                                    </div>
+                                    <div class="col-md-2 font-weight-bold mb-3">
+                                        Description
+                                    </div>
+                                    <div class="col-md-10 mb-3">
+                                        <div id="description"></div>
+                                    </div>
+                                    <div class="col-md-2 font-weight-bold mb-3">
+                                        Link
+                                    </div>
+                                    <div class="col-md-10 mb-3">
+                                        <div id="project-url"></div>
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" data-dismiss="modal" class="btn btn-outline-danger btn-elevate"
+                                id="btn-close-red">Close</button>
+                        </div>
+                    </div>
+                </div>
+        </form>
+    </div>
+    </div>
+
+
+    <!-- Image Modal -->
+    <div class="modal fade" id="picture" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-xl modal-dialog-scrollable full-modal-dialog" role="document">
+            <div class="modal-content full-modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Slider</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                </div>
+                <div class="modal-body">
+                    <center> <img id="myImage" class="img-fluid" src="" alt=""> </center>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"
+                        style="background-color: #EF4836;">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Image modal -->
+
+
+    <script src="assets/library/jquery/jquery-2.2.0.min.js"></script>
+
+    <!-- JS files from CDN -->
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- /JS files from CDN -->
+
+    <script src="assets/library/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/smoothscroll.js"></script>
+    <!-- <script src="assets/library/owl-carousel/js/owl.min.js"></script> -->
+
+    <script src="assets/js/custom.js"></script>
+
+
+    <script type="text/babel">
+
+        $.ajax({
+            url: "assets/data/project.json",
+            type: "GET",
+            success: function (response) {
+                let content = '<div class="row">';
+
+                let data = response;
+                let arr_size = data.length - 1;
+                let res;
+                let cover, img_cover_url;
+
+                for (let i = arr_size; i >= 0 ; i--) {
+                    res = data[i];
+
+                    cover = res.image_cover;
+                    img_cover_url = (typeof cover !== 'undefined' && cover !== '') ? cover : 'assets/img/images-coming-soon.png';
+
+                    content += '<div class="col-lg-4 col-md-4 col-sm-4 col-6">'
+                                +'<div class="card project-card" onclick="show_project('+res.id+')">'
+                                +'<img class="card-img-top img-project-card animate-portofolio" src="' + img_cover_url + '" loading="lazy" onclick="void(0)">'
+                                    +'<div class="card-body">'
+                                    +'<h4 class="card-title menu-sm-card-title">'
+                                        +'<div class="project-name">'+res.name+'</div>'
+                                    +'</h4>'
+                                    +'</div>'
+                                +'</div>'
+                            +'</div>';
+                                        
+                    
+                }
+
+                content += '</div>';
+
+                let html = <div dangerouslySetInnerHTML={ { __html: content} }></div>;
+
+                ReactDOM.render(
+                    html, 
+                    document.getElementById('portofolio')
+                );
+            
+            },
+            error: function(e) {
+                console.log(e);
+            }
+      });
+
+    </script>
+
 </body>
+
 </html>
