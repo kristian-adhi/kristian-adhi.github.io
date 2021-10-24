@@ -45,7 +45,7 @@
       "id": 3,
       "name": "MediaKitaKita Back-end",
       "description": "MediaKitaKita is a collaboration program between Gmedia Semarang and Sonora FM Semarang. The main content is podcast and video. Admin could manage website content and could reply email directly from admin backend to visitors who sent it. <br> <br> I also did data fetching from back-end to front-end pages & vice versa.",
-      "url": "",
+      "url": "https://mediakitakita.com/demo/Login",
       "image_cover": "https://cutt.ly/TQVqbcv",
       "images": [
         {
