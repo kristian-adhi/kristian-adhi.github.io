@@ -201,24 +201,38 @@
                 let data = response;
                 let arr_size = data.length - 1;
                 let res;
-                let cover, img_cover_url;
+                let id, name, cover, img_cover_url;
 
                 for (let i = arr_size; i >= 0 ; i--) {
                     res = data[i];
+                    id = res.id;
+                    name = res.name;
 
                     cover = res.image_cover;
                     img_cover_url = (typeof cover !== 'undefined' && cover !== '') ? cover : 'assets/img/images-coming-soon.png';
 
-                    content += '<div class="col-lg-4 col-md-4 col-sm-4 col-6">'
-                                +'<div class="card project-card" onclick="show_project('+res.id+')">'
+                    content += `<div class="col-lg-4 col-md-4 col-sm-4 col-6">
+                                 <div class="card project-card" onclick="show_project('${id}')">
+                                    <img class="card-img-top img-project-card animate-portofolio" src="${img_cover_url}" loading="lazy" onclick="void(0)">
+                                    <div class="card-body">
+                                        <h4 class="card-title menu-sm-card-title">
+                                            <div class="project-name">${name}</div>
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>`;
+                                        
+
+                    /* content += '<div class="col-lg-4 col-md-4 col-sm-4 col-6">'
+                                +'<div class="card project-card" onclick="show_project('+id+')">'
                                 +'<img class="card-img-top img-project-card animate-portofolio" src="' + img_cover_url + '" loading="lazy" onclick="void(0)">'
                                     +'<div class="card-body">'
                                     +'<h4 class="card-title menu-sm-card-title">'
-                                        +'<div class="project-name">'+res.name+'</div>'
+                                        +'<div class="project-name">'+name+'</div>'
                                     +'</h4>'
                                     +'</div>'
                                 +'</div>'
-                            +'</div>';
+                            +'</div>'; */
                                         
                     
                 }
