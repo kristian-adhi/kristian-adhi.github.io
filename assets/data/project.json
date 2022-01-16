@@ -26,7 +26,7 @@
     {
       "id": 2,
       "name": "Gmedia Customer Service",
-      "description": "Admin panel for Customer Service (CS) of Gmedia to assist the customer relationship. The main features of this CS application are: <br> <ul> <li>Call management (Care call, Courtesy call, Birthday call)</li> <li>Survey report (Daily survey, CS activity, Survey chart)</li> </ul>",
+      "description": "Admin panel for Customer Service (CS) of Gmedia, which is used to assist the customer relationship. The main features of this CS application are: <br> <ul> <li>Call management (Care call, Courtesy call, Birthday call)</li> <li>Survey report (Daily survey, CS activity, Survey chart)</li> </ul>",
       "url": "",
       "image_cover": "https://cutt.ly/3QC6APz",
       "images": [
@@ -227,6 +227,60 @@
         },
         {
           "img_url": "https://cutt.ly/jQ9GGBU"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Gmedia Asset Management",
+      "description": "Admin panel for Human Resource (HR) team of Gmedia, which is used to manage the office assets. It has some inventory modules, for example:<br> Stock Adjustment, Item Master, Item Reminder, etc.",
+      "url": "",
+      "image_cover":"https://cutt.ly/yUK42rB",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/eULrEGT"
+        },  
+        {
+          "img_url": "https://cutt.ly/DULrFuX"
+        },  
+        {
+          "img_url": "https://cutt.ly/EULtrqA"
+        },  
+        {
+          "img_url": "https://cutt.ly/MULtcbH"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "NEXA Card - Landing Page",
+      "description": "Landing page to introduce, inform, and promote the product of NEXA Card.<br> For the website UI and content, I have collaborated with Graphic Designer and the division of Marcomm (Marketing Communication).",
+      "url": "https://nexacard.id/",
+      "image_cover":"https://cutt.ly/eUK5MEd",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/5ULuLjp"
+        },  
+        {
+          "img_url": "https://cutt.ly/3ULtNzx"
+        },  
+        {
+          "img_url": "https://cutt.ly/vULyyS4"
+        },  
+        {
+          "img_url": "https://cutt.ly/7ULynEm"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Gmedia Recruitment - API",
+      "description": "The API which was used for technical test (recruitment) of mobile developer candidates. The chosen candidates were required to develop the application based on provided mockup, and consume data from this API.",
+      "url": "",
+      "image_cover":"https://cutt.ly/kULqXn3",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/LULruM2"
         }
       ]
     }
