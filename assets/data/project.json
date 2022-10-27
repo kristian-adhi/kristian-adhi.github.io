@@ -356,7 +356,7 @@
     {
       "id": 19,
       "name": "Food Fair - Citraland Mall <br> (Front-end & Back-end)",
-      "description": "Digital menu of food fair which is used in Citraland Mall Semarang. When visiting the food court, customers are able to choose menu directly from their own gadget. So it's more practical to see the menu from many tenants via the landing page, instead of walking around the food court just to see the physical menu. <br> <br> In web admin there's custom CMS (Content Management System) powered by Laravel. Admin could manage the list of tenant & their menu.",
+      "description": "Digital menu of food fair which is used in Citraland Mall Semarang. When visiting the food court, customers are able to read the menu directly from their own gadget. So it's more practical to read the menu from many tenants via the landing page, instead of walking around the food court just to read the physical menu. <br> <br> In web admin there's custom CMS (Content Management System) powered by Laravel. Admin could manage the list of tenant & their menu.",
       "url": "https://foodfair.nexa.net.id/",
       "image_cover":"https://cutt.ly/TB6bBhv",
       "images": [
