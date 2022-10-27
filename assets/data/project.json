@@ -252,8 +252,20 @@
       ]
     },
     {
+      "id": 15,
+      "name": "Gmedia Recruitment - API",
+      "description": "The API which is used for technical test (recruitment) of programmer candidates. The chosen candidates are required to develop the application based on provided mockup, and consume data from this API.",
+      "url": "",
+      "image_cover":"https://cutt.ly/kULqXn3",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/LULruM2"
+        }
+      ]
+    },
+    {
       "id": 14,
-      "name": "NEXA Card - Landing Page",
+      "name": "Nexa Card - Landing Page",
       "description": "Landing page which has main purpose to introduce, give information, and promote the product of NEXA Card.<br> For the website UI and content, I have collaborated with Graphic Designer and the division of Marcomm (Marketing Communication).",
       "url": "https://nexacard.id/",
       "image_cover":"https://cutt.ly/eUK5MEd",
@@ -273,14 +285,95 @@
       ]
     },
     {
-      "id": 15,
-      "name": "Gmedia Recruitment - API",
-      "description": "The API which is used for technical test (recruitment) of programmer candidates. The chosen candidates are required to develop the application based on provided mockup, and consume data from this API.",
+      "id": 16,
+      "name": "Client Dashboard <br> (Customer Portal of Nexa)",
+      "description": "Customer Portal of Nexa is an admin panel for CRO (Customer Relation Officer) and customer, which has the main purpose to maintain the data related to customer's subscription. <br> The main features of this Client Dashboard are: <br> <ul> <li>Invoice & ticket information</li> <li>PIC management</li> <li>Customer data validation</li> </ul>",
       "url": "",
-      "image_cover":"https://cutt.ly/kULqXn3",
+      "image_cover":"https://cutt.ly/wNwuQZ2",
       "images": [
         {
-          "img_url": "https://cutt.ly/LULruM2"
+          "img_url": "https://cutt.ly/FNq3iOe"
+        },
+        {
+          "img_url": "https://cutt.ly/3Nq3zen"
+        },
+        {
+          "img_url": "https://cutt.ly/0Nq3WeP"
+        },
+        {
+          "img_url": "https://cutt.ly/hNq3Kf9"
+        },
+        {
+          "img_url": "https://cutt.ly/SNq32pr"
+        },
+        {
+          "img_url": "https://cutt.ly/WNq374w"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Funbike PHRI 2022 <br> (Landing Page)",
+      "description": "Landing page for information about bike competition which was held in July 2022 by Perhimpunan Hotel dan Restoran Indonesia (PHRI). Web visitors in general will notice a redirect button to a ticket booking page. <br> For the website UI and content, I have collaborated with Graphic Designer.",
+      "url": "https://funbike.nexa.net.id/",
+      "image_cover":"https://cutt.ly/gB6ncre",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/SB6U2Px"
+        },
+        {
+          "img_url": "https://cutt.ly/yB6Ica8"
+        },
+        {
+          "img_url": "https://cutt.ly/RB6OapP"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Nexa Ticket <br> (Web Admin & API)",
+      "description": "Nexa Ticket is an application for event booking system, which is rebranded from the existing booking system (Tuku Tiket). I have collaborated in a team by providing API to the frontend developers of mobile & web apps. There are some new features in Nexa Ticket admin, such as booking code generator, seat generator, client management, etc. While in Nexa Ticket scanner, the new features are OTS (On The Spot) registration and scan history. There are some new APIs which I've developed for front-end web registration. Nexa Ticket is also integrated with Google Calendar API, to invite every guest who has successfully to the event via the web apps.",
+      "url": "",
+      "image_cover":"https://cutt.ly/QB6nHYS",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/SNqKPAR"
+        },
+        {
+          "img_url": "https://cutt.ly/xNqK1Gf"
+        },
+        {
+          "img_url": "https://cutt.ly/PNqLqaa"
+        },
+        {
+          "img_url": "https://cutt.ly/ENqL1qh"
+        },
+        {
+          "img_url": "https://cutt.ly/sNqLSRD"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Food Fair - Citraland Mall <br> (Front-end & Back-end)",
+      "description": "Digital menu of food fair which is used in Citraland Mall Semarang. When visiting the food court, customers are able to choose menu directly from their own gadget. So it's more practical to see the menu from many tenants via the landing page, instead of walking around the food court just to see the physical menu. <br> <br> In web admin there's custom CMS (Content Management System) powered by Laravel. Admin could manage the list of tenant & their menu.",
+      "url": "https://foodfair.nexa.net.id/",
+      "image_cover":"https://cutt.ly/TB6bBhv",
+      "images": [
+        {
+          "img_url": "https://cutt.ly/sNq5yeQ"
+        },
+        {
+          "img_url": "https://cutt.ly/SNq5fkL"
+        },
+        {
+          "img_url": "https://cutt.ly/pNq5AQD"
+        },
+        {
+          "img_url": "https://cutt.ly/dNq52gC"
+        },
+        {
+          "img_url": "https://cutt.ly/rNq6rqX"
         }
       ]
     }
