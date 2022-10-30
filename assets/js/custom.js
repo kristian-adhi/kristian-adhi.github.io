@@ -83,7 +83,7 @@ function show_project(id) {
                                 
                             active = (i == 0) ? 'active' : '';
 
-                            carousel_item += `<div class="carousel-item banner-max-height ${active}">'
+                            carousel_item += `<div class="carousel-item banner-max-height ${active}">
                                                 <a href="#picture" data-id="${img_url}" class="openImageDialog thumbnail" data-toggle="modal">
                                                     <img class="d-block w-100 h-100" src="${img_url}" alt="banner">
                                                 </a>
