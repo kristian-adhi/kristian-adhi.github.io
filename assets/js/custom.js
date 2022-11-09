@@ -1,6 +1,32 @@
 $(document).ready(function () {
     $('#linkedin').load('html/linkedin-profile.html');
 
+    var hostname = document.location.hostname;
+    var nav_button;
+
+    if (hostname == 'kristian-adhi.github.io') {
+        nav_button = `<a href="https://kristian-adhi.on.btfs.io/" target="btfs"  title="test" class="btn btn-sm btn-primary text-white">
+                        <img src="assets/img/media/btfs-icon.db82db0a0ccc49c98d3dabe82406150b.svg"> 
+                        <span>Web3 on BTFS</span> 
+                    </a>`;
+
+    } else {
+        nav_button = `<a href="https://storage3.btfs.io" target="btfs">
+                        <img src="assets/img/media/btfs-logo.1edec2fe.svg">
+                    </a>`;
+    }
+
+    $('.form-menu-icon').html(nav_button);
+
+    $('[data-toggle="tooltip"]').tooltip({
+        selector: true,
+        title: function() {
+          return 'BitTorrent File System (BTFS)';
+        }
+      });
+    
+
+    
 });
 
 $(window).scroll(function () {
