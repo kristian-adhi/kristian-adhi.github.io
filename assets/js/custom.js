@@ -5,7 +5,7 @@ $(document).ready(function () {
     var nav_button;
 
     if (hostname == 'kristian-adhi.github.io') {
-        nav_button = `<a href="https://kristian-adhi.on.btfs.io/" target="btfs"  title="test" class="btn btn-sm btn-primary text-white">
+        nav_button = `<a href="https://kristian-adhi.on.btfs.io/" target="btfs" data-toggle="tooltip" class="btn btn-sm btn-primary text-white">
                         <img src="assets/img/media/btfs-icon.db82db0a0ccc49c98d3dabe82406150b.svg"> 
                         <span>Web3 on BTFS</span> 
                     </a>`;
