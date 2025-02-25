@@ -4,22 +4,22 @@
       "name": "PSP - Company Profile <br> (Front-end & Back-end)",
       "description": "It was my first web project at PT Media Sarana Data. It's a company profile of CV. Putmasari Pratama. The first phase in front-end development was to convert design layout (UI) from Graphic Designer. In admin panel there's custom CMS (Content Management System) powered by CodeIgniter.",
       "url": "https://putmasaripratama.co.id/profile_v1/",
-      "image_cover": "https://cutt.ly/bQCFuch",
+      "image_cover": "https://cutt.ly/Yw18kW7Z",
       "images": [
         {
-          "img_url": "https://cutt.ly/0QCEIx4"
+          "img_url": "https://cutt.ly/Gw18v078"
         },
         {
-          "img_url": "https://cutt.ly/1QCEYr5"
+          "img_url": "https://cutt.ly/iw18btd7"
         },
         {
-          "img_url": "https://cutt.ly/OQCEmns"
+          "img_url": "https://cutt.ly/nw18bTQ3"
         },
         {
-          "img_url": "https://cutt.ly/0QCExQ5"
+          "img_url": "https://cutt.ly/cw18b6TZ"
         },
         {
-          "img_url": "https://cutt.ly/wQCEkJz"
+          "img_url": "https://cutt.ly/tw18nm0i"
         }
       ]
     },
@@ -28,16 +28,16 @@
       "name": "Gmedia Customer Service",
       "description": "Admin panel for Customer Service (CS) of Gmedia, which is used to assist the customer relationship. The main features of this CS application are: <br> <ul> <li>Call management (Care call, Courtesy call, Birthday call)</li> <li>Survey report (Daily survey, CS activity, Survey chart)</li> </ul>",
       "url": "",
-      "image_cover": "https://cutt.ly/3QC6APz",
+      "image_cover": "https://cutt.ly/Uw18j5Zs",
       "images": [
         {
-          "img_url": "https://cutt.ly/rQN3W36"
+          "img_url": "https://cutt.ly/cw18WCZs"
         },
         {
-          "img_url": "https://cutt.ly/XQN3KOb"
+          "img_url": "https://cutt.ly/Rw18W7M8"
         },
         {
-          "img_url": "https://cutt.ly/mQN3V7J"
+          "img_url": "https://cutt.ly/ew18EdnD"
         }
       ]
     },
@@ -46,19 +46,19 @@
       "name": "MediaKitaKita Back-end",
       "description": "MediaKitaKita is a collaboration program between Gmedia Semarang and Sonora FM Semarang. The main content is podcast and video. Admin could manage website content and could reply email directly from admin backend to visitors who sent it. <br> <br> I also did data fetching from back-end to front-end pages & vice versa.",
       "url": "https://mediakitakita.com/demo/Login",
-      "image_cover": "https://cutt.ly/TQVqbcv",
+      "image_cover": "https://cutt.ly/Xw18g23a",
       "images": [
         {
-          "img_url": "https://cutt.ly/pQN5JBz"
+          "img_url": "https://cutt.ly/Ew18ECNd"
         },
         {
-          "img_url": "https://cutt.ly/IQN5VEn"
+          "img_url": "https://cutt.ly/uw18E5Au"
         },
         {
-          "img_url": "https://cutt.ly/KQN59bA"
+          "img_url": "https://cutt.ly/Xw18RiTV"
         },
         {
-          "img_url": "https://cutt.ly/jQN6qNq"
+          "img_url": "https://cutt.ly/dw18RzJJ"
         }
       ]
     },
@@ -67,13 +67,13 @@
       "name": "National E-Sport <br> War From Home 2020",
       "description": "Landing page which was used for registration & information of E-Sport tournament (Piala Gubernur Jawa Tengah 2020). It's also equipped with web admin to check and approve registration.",
       "url": "https://gmedia.net.id/esport/",
-      "image_cover": "https://cutt.ly/PQC7Z5W",
+      "image_cover": "https://cutt.ly/vw18ggY2",
       "images": [
         {
-          "img_url": "https://cutt.ly/CQMeqrK"
+          "img_url": "https://cutt.ly/Qw18Kld4"
         },
         {
-          "img_url": "https://cutt.ly/1RlsZu1"
+          "img_url": "https://cutt.ly/Lw18KBwt"
         }
       ]
     },
@@ -82,10 +82,10 @@
       "name": "Interflow Back-end",
       "description": "Interflow Property is a property broker company. The property consultants have a role as intermediary between seller and buyer of property. Every consultant of Interflow could promote his / her property listing on website, through admin panel which has been provided. While admin could manage website content, property listing, etc.",
       "url": "https://interflow.co.id/Login",
-      "image_cover": "https://cutt.ly/vQC53HM",
+      "image_cover": "https://cutt.ly/Dw18f14D",
       "images": [
         {
-          "img_url": "https://cutt.ly/PQMamnc"
+          "img_url": "https://cutt.ly/ew18LUfS"
         },
         {
           "img_url": "https://cutt.ly/NQMaTMz"
@@ -100,7 +100,7 @@
       "name": "ARJUNA Mobile - API",
       "description": "Attendance system of CV. Putmasari Pratama (PSP). I have collaborated with Android Dev to provide API for the mobile app. Employees of PSP could check their own fingerprint scan log, attendance summary, remaining days off, etc. Submission of leave could be done easily through this app.",
       "url": "",
-      "image_cover": "https://cutt.ly/SQC10qI",
+      "image_cover": "https://cutt.ly/Lw18dasQ",
       "images": [
         {
           "img_url": "https://cutt.ly/PQCMZvx"
@@ -112,7 +112,7 @@
       "name": "Lampuku Kartika - API",
       "description": "Lampuku is a reseller application of CV. Kartika Jaya Abadi. I have collaborated with Android Dev to provide API for the mobile app. Kartika's customers could order electrical stuff directly from online shop in the app. Lampuku app is also integrated with DOKU Payment Gateway, so customers could easily pay debt to the company.",
       "url": "",
-      "image_cover": "https://cutt.ly/XQV9CJh",
+      "image_cover": "https://cutt.ly/Tw18skYR",
       "images": [
         {
           "img_url": "https://cutt.ly/TQ9xnZs"
@@ -124,7 +124,7 @@
       "name": "ROCK Station <br> (Web Admin & API)",
       "description": "ROCK Station is an application to help church congregation of GBI ROCK Banjarmasin, to confirm their attendance & join offline worship in the church. It is useful for them who go to the church, especially during pandemic era. My role in this project is the developer of web admin & API.",
       "url": "http://gmedia.bz/gereja/",
-      "image_cover": "https://cutt.ly/iQV21MO",
+      "image_cover": "https://cutt.ly/aw18aBOj",
       "images": [
         {
           "img_url": "https://cutt.ly/nQ9QB1t"
@@ -145,7 +145,7 @@
       "name": "Kata Kopi Semarang <br> (Front-end & Back-end)",
       "description": "Digital menu in the form of landing page which is used in Kata Kopi Semarang. When visiting the cafe, customers are able to choose menu directly from their own gadget / laptop. So it's helpful in this pandemic era, because physical contact towards cafe's physical menu can be minimized to prevent virus transmission. <br> <br> The first phase in front-end development was to convert design layout (UI) from Graphic Designer. In web admin there's custom CMS (Content Management System) powered by CodeIgniter.",
       "url": "http://gmedia.bz/katakopi/",
-      "image_cover":"https://cutt.ly/8QV1MoE",
+      "image_cover":"https://cutt.ly/uw18afaW",
       "images": [
         {
           "img_url": "https://cutt.ly/gQZ30DA"
@@ -172,7 +172,7 @@
       "name": "Dashboard for Gmedia BoD",
       "description": "Exclusive dashboard for BoD (Board of Directors) of Gmedia. This dashboard consists of performance statistics from three departments: Sales, CRO (Customer Relationship Officer), and Finance. The BoD could monitor employee's performance as an evaluation, and have relevant information for business decision-making.",
       "url": "",
-      "image_cover":"https://cutt.ly/JQV73I5",
+      "image_cover":"https://cutt.ly/5w18iey1",
       "images": [
         {
           "img_url": "https://cutt.ly/zWiuc2d"
@@ -190,7 +190,7 @@
       "name": "Backlog",
       "description": "Internal project management for our software development team. Sprint backlog is mainly used for the task management. There are sprint summary and monthly achievement report in order to evaluate employee's performance.",
       "url": "",
-      "image_cover":"https://cutt.ly/RQV8Oaq",
+      "image_cover":"https://cutt.ly/kw18uQ5S",
       "images": [
         {
           "img_url": "https://cutt.ly/QQ9SP4H"
@@ -208,7 +208,7 @@
       "name": "Network Monitoring System <br> (NMS XPRO)",
       "description": "NMS is an admin panel for Network Operation Center (NOC) to monitor and manage the network and data center. The main features of this NMS application are: <br> <ul> <li>Trouble management (Interference of intercity and innercity network)</li> <li>Network documentation (IP, VLAN, switch)</li> <li>OLT diagnostic & statistics</li> </ul> <br> NMS is also integrated with SmartOLT API. This API provide statistics (signal & status) of the Optical Line Termination (OLT).",
       "url": "http://gmedia.bz/nms/",
-      "image_cover":"https://cutt.ly/gQV5PlR",
+      "image_cover":"https://cutt.ly/Cw18ymnn",
       "images": [
         {
           "img_url": "https://cutt.ly/CQ9GuI8"
@@ -235,7 +235,7 @@
       "name": "Gmedia Asset Management",
       "description": "Admin panel for Human Resource (HR) team of Gmedia, which is used to manage the office assets. It has some inventory modules, for example:<br> Stock Adjustment, Item Master, Item Reminder, etc.",
       "url": "",
-      "image_cover":"https://cutt.ly/yUK42rB",
+      "image_cover":"https://cutt.ly/rw18ttE6",
       "images": [
         {
           "img_url": "https://cutt.ly/eULrEGT"
@@ -256,7 +256,7 @@
       "name": "Gmedia Recruitment - API",
       "description": "The API which is used for technical test (recruitment) of programmer candidates. The chosen candidates are required to develop the application based on provided mockup, and consume data from this API.",
       "url": "",
-      "image_cover":"https://cutt.ly/kULqXn3",
+      "image_cover":"https://cutt.ly/iw18eloK",
       "images": [
         {
           "img_url": "https://cutt.ly/LULruM2"
@@ -268,7 +268,7 @@
       "name": "Nexa Card - Landing Page",
       "description": "Landing page which has main purpose to introduce, give information, and promote the product of NEXA Card.<br> For the website UI and content, I have collaborated with Graphic Designer and the division of Marcomm (Marketing Communication).",
       "url": "https://nexacard.id/",
-      "image_cover":"https://cutt.ly/eUK5MEd",
+      "image_cover":"https://cutt.ly/Hw134b95",
       "images": [
         {
           "img_url": "https://cutt.ly/5ULuLjp"
@@ -289,7 +289,7 @@
       "name": "Client Dashboard <br> (Customer Portal of Nexa)",
       "description": "Customer Portal of Nexa is an admin panel for CRO (Customer Relation Officer) and customer, which has the main purpose to maintain the data related to customer's subscription. <br> The main features of this Client Dashboard are: <br> <ul> <li>Invoice & ticket information</li> <li>PIC management</li> <li>Customer data validation</li> </ul>",
       "url": "",
-      "image_cover":"https://cutt.ly/wNwuQZ2",
+      "image_cover":"https://cutt.ly/oebWBwzv",
       "images": [
         {
           "img_url": "https://cutt.ly/FNq3iOe"
@@ -316,7 +316,7 @@
       "name": "Funbike PHRI 2022 <br> (Landing Page)",
       "description": "Landing page for information about bike competition which was held in July 2022 by Perhimpunan Hotel dan Restoran Indonesia (PHRI). Web visitors in general will notice a redirect button to a ticket booking page. <br> For the website UI and content, I have collaborated with Graphic Designer.",
       "url": "https://funbike.nexa.net.id/",
-      "image_cover":"https://cutt.ly/gB6ncre",
+      "image_cover":"https://cutt.ly/TebWNm87",
       "images": [
         {
           "img_url": "https://cutt.ly/SB6U2Px"
@@ -334,7 +334,7 @@
       "name": "Nexa Ticket <br> (Web Admin & API)",
       "description": "Nexa Ticket is an application for event booking system, which is rebranded from the existing booking system (Tuku Tiket). I have collaborated in a team by providing API to the frontend developers of mobile & web apps. There are some new features in Nexa Ticket admin, such as booking code generator, seat generator, client management, etc. While in Nexa Ticket scanner, the new features are OTS (On The Spot) registration and scan history. There are some new APIs which I've developed for front-end web registration. Nexa Ticket is also integrated with Google Calendar API, to invite every guest who has successfully to the event via the web apps.",
       "url": "",
-      "image_cover":"https://cutt.ly/QB6nHYS",
+      "image_cover":"https://cutt.ly/tebWMChG",
       "images": [
         {
           "img_url": "https://cutt.ly/SNqKPAR"
@@ -358,7 +358,7 @@
       "name": "Food Fair - Citraland Mall <br> (Front-end & Back-end)",
       "description": "Digital menu of food fair which is used in Citraland Mall Semarang. When visiting the food court, customers are able to read the menu directly from their own gadget. So it's more practical to read the menu from many tenants via the landing page, instead of walking around the food court just to read the physical menu. <br> <br> In web admin there's custom CMS (Content Management System) powered by Laravel. Admin could manage the list of tenant & their menu.",
       "url": "https://foodfair.nexa.net.id/",
-      "image_cover":"https://cutt.ly/TB6bBhv",
+      "image_cover":"https://cutt.ly/HebW1Pbj",
       "images": [
         {
           "img_url": "https://cutt.ly/sNq5yeQ"
